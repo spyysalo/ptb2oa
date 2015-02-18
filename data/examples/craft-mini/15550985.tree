@@ -1,0 +1,3 @@
+( (TITLE (NP (NP (DT A) (NN Chemoattractant) (NN Role)) (PP (IN for) (NP (NN NT) (HYPH -) (CD 3))) (PP (IN in) (NP (NML (NN Proprioceptive) (NN Axon)) (NN Guidance))))) )
+( (HEADING (NP (NN Abstract))) )
+( (S (NP-SBJ-1 (NP (NN Neurotrophin) (HYPH -) (CD 3)) (-LRB- -LRB-) (NP (NN NT) (HYPH -) (CD 3))) (-RRB- -RRB-) (VP (VBZ is) (VP (VBN required) (NP-1 (-NONE- *)) (PP-PRP (IN for) (NP (NML (JJ proprioceptive) (NN neuron)) (NN survival))))) (. .)) )
